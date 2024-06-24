@@ -1,0 +1,12 @@
+2024-06-24 10:32:04,854 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-24 11:23:00,863 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-24 11:30:43,995 [Worker-0: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2024-06-24 11:31:55,807 [Worker-2: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2024-06-24 11:32:53,492 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-24 11:34:34,096 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.11+9
+2024-06-24 11:34:34,153 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@52bfd293{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@3671f016{STARTED}}
+2024-06-24 11:34:34,154 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-06-24 11:34:34,186 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@79c27aa7{HTTP/1.1, (http/1.1)}{127.0.0.1:62363}
+2024-06-24 11:34:34,191 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@42bd8b32{STARTING}[12.0.6,sto=0] @183684ms
+2024-06-24 11:36:23,542 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@42bd8b32{STOPPING}[12.0.6,sto=0]
+2024-06-24 11:36:23,547 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@79c27aa7{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
